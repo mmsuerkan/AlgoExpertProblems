@@ -1,4 +1,4 @@
-package org.algo.easy.firstSolution;
+package org.algo.easy.TwoNumberSum.firstSolution;
 
 import org.algo.easy.TwoNumberSum.TwoNumberSum;
 import org.algo.easy.TwoNumberSum.firstSolution.TwoNumberSumFirstSolution;
