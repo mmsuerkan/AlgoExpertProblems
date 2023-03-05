@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/TwoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/firstSolution/TwoNumberSumFirstSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/secondSolution/TwoNumberSumSecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/thirdSolution/TwoNumberSumThirdSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/firstSolution/TwoNumberSumFirstSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/secondSolution/TwoNumberSumSecondSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/thirdSolution/TwoNumberSumThirdSolutionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MbKU32JDyEyr7pCNSVFEDzaZpZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.algo.easy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.algo.easy.thirdSolution" />
+      <recent name="org.algo.easy.secondSolution" />
+      <recent name="org.algo.easy.firstSolution" />
+      <recent name="org.algo.easy.TwoNumberSum.thirdSolution" />
+      <recent name="org.algo.easy.TwoNumberSum.secondSolution" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TwoNumberSumThirdSolutionTest.testCase8">
+    <configuration name="TwoNumberSumFirstSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.firstSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.firstSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.firstSolution.TwoNumberSumFirstSolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumberSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.TwoNumberSum.firstSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.TwoNumberSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumberSumThirdSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumberSumThirdSolutionTest.testCase3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
+      <option name="METHOD_NAME" value="testCase3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumberSumThirdSolutionTest.testCase4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
+      <option name="METHOD_NAME" value="testCase4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumberSumThirdSolutionTest.testCase8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
+      <option name="METHOD_NAME" value="testCase8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase8" />
+        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest" />
+        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase3" />
+        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase4" />
+        <item itemvalue="JUnit.TwoNumberSumFirstSolutionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="" />
+      <created>1678030853855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678030853855</updated>
+      <workItem from="1678030854942" duration="3420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/algo/easy/TwoNumberSumFirstSolutionTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/secondSolution/TwoNumberSumSecondSolution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/algo/easy/secondSolution/TwoNumberSumSecondSolutionTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/thirdSolution/TwoNumberSumThirdSolution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
