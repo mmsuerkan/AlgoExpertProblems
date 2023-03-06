@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/TwoNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/firstSolution/TwoNumberSumFirstSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/secondSolution/TwoNumberSumSecondSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/thirdSolution/TwoNumberSumThirdSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/firstSolution/TwoNumberSumFirstSolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/secondSolution/TwoNumberSumSecondSolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/thirdSolution/TwoNumberSumThirdSolutionTest.java" afterDir="false" />
+    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="package structure has changed.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/BinarySearch/FirstSolution/BinarySearchRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/BinarySearch/SecondSolution/BinarySearchIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/BinarySearch/FirstSolution/BinarySearchRecursiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/BinarySearch/SecondSolution/BinarySearchIterativeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -57,126 +49,109 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.algo.easy.BinarySearch.SecondSolution" />
+      <recent name="org.algo.easy.BinarySearch.FirstSolution" />
       <recent name="org.algo.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.algo.easy.BinarySearch.SecondSolution" />
       <recent name="org.algo.easy.thirdSolution" />
       <recent name="org.algo.easy.secondSolution" />
       <recent name="org.algo.easy.firstSolution" />
       <recent name="org.algo.easy.TwoNumberSum.thirdSolution" />
-      <recent name="org.algo.easy.TwoNumberSum.secondSolution" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TwoNumberSumThirdSolutionTest.testCase8">
-    <configuration name="TwoNumberSumFirstSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BinarySearchRecursiveTest,test1 and 2 more">
+    <configuration name="BinarySearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.BinarySearch.SecondSolution.BinarySearchIterative" />
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algo.easy.firstSolution.*" />
+          <option name="PATTERN" value="org.algo.easy.BinarySearch.SecondSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.firstSolution" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.firstSolution.TwoNumberSumFirstSolutionTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchRecursiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.BinarySearch.FirstSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.BinarySearch.FirstSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoNumberSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchRecursiveTest,test1 and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.TwoNumberSum.firstSolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.TwoNumberSumTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest,test1" />
+        <pattern testClass="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest,test2" />
+        <pattern testClass="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest,test3" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoNumberSumThirdSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchRecursiveTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="PATTERN" value="org.algo.easy.BinarySearch.FirstSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoNumberSumThirdSolutionTest.testCase3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
-      <option name="METHOD_NAME" value="testCase3" />
+      <option name="PACKAGE_NAME" value="org.algo.easy.BinarySearch.FirstSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoNumberSumThirdSolutionTest.testCase4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchRecursiveTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
+          <option name="PATTERN" value="org.algo.easy.BinarySearch.FirstSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
-      <option name="METHOD_NAME" value="testCase4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoNumberSumThirdSolutionTest.testCase8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.thirdSolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.thirdSolution" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.thirdSolution.TwoNumberSumThirdSolutionTest" />
-      <option name="METHOD_NAME" value="testCase8" />
+      <option name="PACKAGE_NAME" value="org.algo.easy.BinarySearch.FirstSolution" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.BinarySearch.FirstSolution.BinarySearchRecursiveTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase8" />
-        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest" />
-        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase3" />
-        <item itemvalue="JUnit.TwoNumberSumThirdSolutionTest.testCase4" />
-        <item itemvalue="JUnit.TwoNumberSumFirstSolutionTest" />
+        <item itemvalue="JUnit.BinarySearchRecursiveTest,test1 and 2 more" />
+        <item itemvalue="Application.BinarySearchIterative" />
+        <item itemvalue="JUnit.BinarySearchRecursiveTest" />
+        <item itemvalue="JUnit.BinarySearchRecursiveTest.test3" />
+        <item itemvalue="JUnit.BinarySearchRecursiveTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -200,8 +175,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678030853855</updated>
-      <workItem from="1678030854942" duration="3420000" />
+      <workItem from="1678030854942" duration="4409000" />
+      <workItem from="1678131537379" duration="42000" />
+      <workItem from="1678131591174" duration="1521000" />
     </task>
+    <task id="LOCAL-00001" summary="TwoNumberSum Problem completed with solutions and unit tests as well.">
+      <created>1678034516508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678034516508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="package structure has changed.">
+      <created>1678034624337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678034624337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +201,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="TwoNumberSum Problem completed with solutions and unit tests as well." />
+    <MESSAGE value="package structure has changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="package structure has changed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -224,14 +219,19 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/algo/easy/secondSolution/TwoNumberSumSecondSolutionTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/org/algo/easy/TwoNumberSum/secondSolution/TwoNumberSumSecondSolutionTest.java</url>
           <line>24</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/algo/easy/TwoNumberSum/thirdSolution/TwoNumberSumThirdSolution.java</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/algo/easy/BinarySearch/FirstSolution/BinarySearchRecursiveTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
