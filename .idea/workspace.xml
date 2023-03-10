@@ -4,31 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="package structure has changed.">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f7a3e96dbf2a12db2955cba3e62d16d37e36f67" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e19b040ceb571667654df5eded69c4a54e184d7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/904de5d7af1134a3069dbf8578e884eff6c14a13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a08e7ff955f84a9fbca97e9985b927abec07372f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a66147afbea3e621e3335a0f855524de2bd2b405" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ceda948391c4d33c12e6c6b7808a1ad9f8d06d9d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0a09388811f9be68515a83b6a7ef0a1448abd79" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f7a3e96dbf2a12db2955cba3e62d16d37e36f67" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e19b040ceb571667654df5eded69c4a54e184d7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/0/904de5d7af1134a3069dbf8578e884eff6c14a13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/0/a08e7ff955f84a9fbca97e9985b927abec07372f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a66147afbea3e621e3335a0f855524de2bd2b405" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/ceda948391c4d33c12e6c6b7808a1ad9f8d06d9d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e0a09388811f9be68515a83b6a7ef0a1448abd79" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/CaesarCipher/CaesarEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/GetNthFib/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/GetNthFib/MemoizedFib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/IsPalindrome/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/SelectionSort/SelectionSort.java" afterDir="false" />
+    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="new problems added.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/BubbleSort/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/InsertionSort/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/SortedSquareArray/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/ValidateSubSequence/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/BubbleSort/ProgramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/InsertionSort/ProgramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/SortedSquareArray/ProgramTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/algo/easy/GetNthFib/FİB.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -100,59 +85,7 @@
       <recent name="org.algo.easy.TwoNumberSum.thirdSolution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="CaesarEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.CaesarCipher.CaesarEncryption" />
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.CaesarCipher.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.GetNthFib.Fib" />
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.GetNthFib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MemoizedFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.GetNthFib.MemoizedFib" />
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.GetNthFib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.IsPalindrome.Program" />
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.algo.easy.IsPalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ProgramTest.TestCase1 (3)">
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.algo.easy.SelectionSort.SelectionSort" />
       <module name="AlgoExpert" />
@@ -166,13 +99,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgramTest.TestCase1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.InsertionSort" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.InsertionSort.ProgramTest" />
+      <option name="METHOD_NAME" value="TestCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.TestCase1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.SortedSquareArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.SortedSquareArray" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.SortedSquareArray.ProgramTest" />
+      <option name="METHOD_NAME" value="TestCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.TestCase1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.ValidateSubSequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.ValidateSubSequence" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.ValidateSubSequence.ProgramTest" />
+      <option name="METHOD_NAME" value="TestCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.TestCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algo.easy.BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algo.easy.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.BubbleSort.ProgramTest" />
+      <option name="METHOD_NAME" value="TestCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProgramTest.TestCase1 (3)" />
+        <item itemvalue="JUnit.ProgramTest.TestCase1 (2)" />
+        <item itemvalue="JUnit.ProgramTest.TestCase1 (1)" />
+        <item itemvalue="JUnit.ProgramTest.TestCase1" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.MemoizedFib" />
-        <item itemvalue="Application.Fib" />
-        <item itemvalue="Application.CaesarEncryption" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +187,7 @@
       <workItem from="1678258770307" duration="653000" />
       <workItem from="1678310624493" duration="6000" />
       <workItem from="1678339160314" duration="29000" />
+      <workItem from="1678472307120" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="TwoNumberSum Problem completed with solutions and unit tests as well.">
       <created>1678034516508</created>
@@ -205,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678034624337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new problems added.">
+      <created>1678472326778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678472326778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +220,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TwoNumberSum Problem completed with solutions and unit tests as well." />
     <MESSAGE value="package structure has changed." />
-    <option name="LAST_COMMIT_MESSAGE" value="package structure has changed." />
+    <MESSAGE value="new problems added." />
+    <option name="LAST_COMMIT_MESSAGE" value="new problems added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
