@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="Find The Closest Value in BST">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/BranchSums/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/BranchSums/ProgramTest.java" afterDir="false" />
+    <list default="true" id="d0ff3e14-58e6-4388-8503-fb801d89edb8" name="Changes" comment="Branch Sums">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/easy/NodeDepths/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algo/easy/NodeDepths/ProgramTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +68,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.algo.easy.NodeDepths" />
       <recent name="org.algo.easy.BranchSums" />
       <recent name="org.algo.easy.FindClosestValueInBst" />
       <recent name="org.algo.easy.ValidateSubSequence" />
       <recent name="org.algo.easy.SortedSquareArray" />
-      <recent name="org.algo.easy.InsertionSort" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.algo.easy.BinarySearch.SecondSolution" />
@@ -82,7 +82,7 @@
       <recent name="org.algo.easy.TwoNumberSum.thirdSolution" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest.TestCase1">
+  <component name="RunManager" selected="JUnit.ProgramTest.TestCase1 (1)">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.algo.easy.BranchSums.Program" />
       <module name="AlgoExpert" />
@@ -96,16 +96,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramTest.TestCase1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProgramTest.TestCase1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algo.easy.ValidateSubSequence.*" />
+          <option name="PATTERN" value="org.algo.easy.NodeDepths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algo.easy.ValidateSubSequence" />
-      <option name="MAIN_CLASS_NAME" value="org.algo.easy.ValidateSubSequence.ProgramTest" />
+      <option name="PACKAGE_NAME" value="org.algo.easy.NodeDepths" />
+      <option name="MAIN_CLASS_NAME" value="org.algo.easy.NodeDepths.ProgramTest" />
       <option name="METHOD_NAME" value="TestCase1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProgramTest.TestCase1 (1)" />
         <item itemvalue="JUnit.ProgramTest.TestCase1" />
         <item itemvalue="Application.Program" />
         <item itemvalue="JUnit.ProgramTest.TestCase2" />
         <item itemvalue="JUnit.ProgramTest.TestCase1 (4)" />
-        <item itemvalue="JUnit.ProgramTest.TestCase1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678730300787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Branch Sums">
+      <created>1678731627061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678731627061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +244,8 @@
     <MESSAGE value="package structure has changed." />
     <MESSAGE value="new problems added." />
     <MESSAGE value="Find The Closest Value in BST" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find The Closest Value in BST" />
+    <MESSAGE value="Branch Sums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Branch Sums" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,6 +284,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/algo/easy/BranchSums/Program.java</url>
           <line>27</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algo/easy/NodeDepths/Program.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
